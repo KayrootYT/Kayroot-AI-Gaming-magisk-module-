@@ -1,4 +1,4 @@
-# Kayroot AI - Game Optimization Script  
+# Kayroot AI - Game magisk module
 Optimized for **Snapdragon processors** with modes for gaming, sleeping, and daily use.  
 
 ## Features  
