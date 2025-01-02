@@ -13,7 +13,7 @@ The Kayroot AI Gaming module dynamically optimizes device performance for gaming
 2. Reboot your device.
 
 ## Files
-- **AI**: Main module for performance.
+- **AI**: Main file for performance.
 - **config.txt**: Configuration file.
 - **gamelist.txt**: Game package names.
 
